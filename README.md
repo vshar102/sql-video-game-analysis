@@ -1,7 +1,6 @@
-# sql-video-game-analysis
-An SQL-based data analysis project exploring 40 years of video game sales and Metacritic reviews. This project joins datasets to compare critic vs. user sentiments and identify the true 'golden age' of gaming history.
-
 # 🎮 The Golden Age of Video Games (SQL Analysis)
+
+An SQL-based data analysis project exploring 40 years of video game sales and Metacritic reviews. This project joins datasets to compare critic vs. user sentiments and identify the true 'golden age' of gaming history.
 
 # 📌 Project Overview
 Video games are big business. The global gaming market is projected to be worth more than $300 billion by 2027. With major game publishers hugely incentivized to create the next big hit, this project seeks to answer a core question: Are games getting better, or has the golden age of video games already passed?
